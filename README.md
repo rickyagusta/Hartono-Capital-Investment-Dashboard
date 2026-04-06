@@ -1,1 +1,1 @@
-![Dashboard](images/Hartono Capital Investment Dashboard.png)
+![Dashboard](Hartono Capital Investment Dashboard.png)
