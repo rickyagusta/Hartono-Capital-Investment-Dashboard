@@ -2,5 +2,5 @@ Personal project developed as a study case to strengthen my Power BI skills and 
 
 
 <p align="center">
-  <img src="Hartono Capital Investment Dashboard.png" width="800">
+  <img src="Demo compressed.gif">
 </p>
